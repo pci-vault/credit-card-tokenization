@@ -22,8 +22,8 @@ See: https://docs.pcivault.io/api/capture
 
 ![Proxy Send Credit Card API](https://pci-vault.s3.eu-west-1.amazonaws.com/workflow/PCIVault.Proxy.API.Flow.v2.jpg "PCI Proxy Send Credit Card Tokenization API")
 
-Proxy Send: https://docs.pcivault.io/api/proxy#method-post-post
+See: https://docs.pcivault.io/api/proxy#method-post-post (Proxy Send)
 
-Proxy Receive: https://docs.pcivault.io/api/proxy#method-post-get
+See: https://docs.pcivault.io/api/proxy#method-post-get (Proxy Receive)
 
 [Get in touch](https://pcivault.io/#contact), should you require further information or wish to discuss your credit card tokenization use case.
