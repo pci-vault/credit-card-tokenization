@@ -11,3 +11,23 @@ Our [PCI tokenization](https://pcivault.io) solution is easy to implement, dimin
 You can find our more by reviewing our [credit card tokenization API](https://docs.pcivault.io) documentation.
 
 [Register now](https://pcivault.io/register) to get started securing sensitive payment data in your environment.
+
+# Capture
+
+See: https://docs.pcivault.io/api/capture
+
+![Capture Credit Card API](https://pci-vault.s3.eu-west-1.amazonaws.com/workflow/PCIVault.Capture.API.Flow.v1.jpg "PCI Capture Credit Card Tokenization API")
+
+# Proxy Send
+
+See: https://docs.pcivault.io/api/proxy#method-post-post
+
+![Proxy Send Credit Card API](https://pci-vault.s3.eu-west-1.amazonaws.com/workflow/PCIVault.Proxy.API.Flow.v2.jpg "PCI Proxy Send Credit Card Tokenization API")
+
+# Proxy Receive
+
+See: https://docs.pcivault.io/api/proxy#method-post-get
+
+![Proxy Receive Credit Card API](https://pci-vault.s3.eu-west-1.amazonaws.com/workflow/PCIVault.Proxy.API.Flow.v2.jpg "PCI Proxy Receive Credit Card Tokenization API")
+
+[Get in touch](https://pcivault.io/#contact), should you require further information or wish to discuss your credit card tokenization use case.
