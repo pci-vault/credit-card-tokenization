@@ -1,2 +1,13 @@
-# credit-card-tokenization
-Reduce PCI compliance scope with our secure credit card tokenization API and hosted card capture forms.
+# Credit Card Tokenization
+
+Reduce PCI compliance scope with our secure [credit card tokenization](https://pcivault.io) API and [hosted credit card capture forms](https://docs.pcivault.io/forms/pcd).
+
+PCI Vault provides a zero-knowledge, vendor neutral, PCI DSS level 1 compliant environment for any business to securely store and take ownership of their payment card data without running the risk of sensitive payment data being exposed in cyber attacks or data breaches.
+
+![Credit Card Tokenization API](https://pci-vault.s3.eu-west-1.amazonaws.com/workflow/PCIVault.Basic.API.Flow.v4.jpg "PCI Credit Card Tokenization API")
+
+Our [PCI tokenization](https://pcivault.io) solution is easy to implement, diminishing your PCI scope and providing significant cost savings in obtaining and maintaining PCI compliance. Our latest PCI AOC is access via our production API: https://docs.pcivault.io/api/admin#method-get-certificate
+
+You can find our more by reviewing our [credit card tokenization API](https://docs.pcivault.io) documentation.
+
+[Register now](https://pcivault.io/register) to get started securing sensitive payment data in your environment.
