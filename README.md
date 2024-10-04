@@ -14,14 +14,16 @@ You can find our more by reviewing our [credit card tokenization API](https://do
 
 # Capture Credit Card
 
-See: https://docs.pcivault.io/api/capture
-
 ![Capture Credit Card API](https://pci-vault.s3.eu-west-1.amazonaws.com/workflow/PCIVault.Capture.API.Flow.v1.jpg "PCI Capture Credit Card Tokenization API")
+
+See: https://docs.pcivault.io/api/capture
 
 # Proxy Send / Receive Credit Card
 
-See: https://docs.pcivault.io/api/proxy#method-post-post (Send) or https://docs.pcivault.io/api/proxy#method-post-get (Receive)
-
 ![Proxy Send Credit Card API](https://pci-vault.s3.eu-west-1.amazonaws.com/workflow/PCIVault.Proxy.API.Flow.v2.jpg "PCI Proxy Send Credit Card Tokenization API")
+
+Proxy Send: https://docs.pcivault.io/api/proxy#method-post-post
+
+Proxy Receive: https://docs.pcivault.io/api/proxy#method-post-get
 
 [Get in touch](https://pcivault.io/#contact), should you require further information or wish to discuss your credit card tokenization use case.
